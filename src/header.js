@@ -84,7 +84,7 @@ function Header() {
 
           <div className="d-flex align-items-center gap-3 mt-3 mt-lg-0">
             <span className="fw-semibold text-secondary" style={{ fontSize: "14px" }}>
-              Hi, User
+              Hi, Hero
             </span>
 
             <button className="btn btn-light rounded-pill px-3 fw-semibold" style={{ fontSize: "14px" }}>
